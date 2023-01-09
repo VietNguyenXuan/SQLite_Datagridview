@@ -139,7 +139,11 @@ namespace WindowsFormsApp1
       timer1.Start();
       timer_update_database.Start();
       int i = 10;
+
       int k = 1;
+
+      int j =5;
+
     }
     
 
