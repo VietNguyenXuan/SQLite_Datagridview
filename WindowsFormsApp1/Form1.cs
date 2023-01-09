@@ -144,6 +144,12 @@ namespace WindowsFormsApp1
 
       int j =5;
 
+      int m = 2;
+
+      int n = 3;
+
+      int l = 8;
+
     }
     
 
