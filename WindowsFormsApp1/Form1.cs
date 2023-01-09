@@ -146,8 +146,6 @@ namespace WindowsFormsApp1
 
       int m = 2;
 
-      int n = 3;
-
     }
     
 
